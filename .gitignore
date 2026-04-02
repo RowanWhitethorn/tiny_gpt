@@ -1,0 +1,5 @@
+# .gitignore
+*.pth
+__pycache__/
+input.txt
+.venv/

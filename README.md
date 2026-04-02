@@ -1,0 +1,1 @@
+"Micro-GPT" con arquitectura de 6 capas y 6 cabezales de atención, entrenado en Shakespeare usando PyTorch y CUDA 13.0/12.4.
